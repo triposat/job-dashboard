@@ -1,0 +1,272 @@
+[
+    {
+        "company": "Brookwoods Group",
+        "rating": "4.8",
+        "job_title": "Master Data Engineer",
+        "location": "Spring, TX",
+        "salary": "$140K - $180K(Employer est.)",
+        "description": "Must have in-depth knowledge with Azure cloud services (e.g. ADF, Synpase, PowerBI, PowerQuery), relational database design principles, T-SQL, ETL/ELT processes……",
+        "skills": "Computer science, Power BI, Azure, Java, SQL"
+    },
+    {
+        "company": "GM Financial",
+        "rating": "4.0",
+        "job_title": "Data Engineer II",
+        "location": "Irving, TX",
+        "salary": "$90K - $116K(Glassdoor est.)",
+        "description": "Your primary focus will revolve around data engineering development tasks, serving as a visionary alongside Data Engineering leads to refine and expand reusable……",
+        "skills": "CI/CD, SAFe, Data modeling, Cloud infrastructure, Azure"
+    },
+    {
+        "company": "Ad hoc Research",
+        "rating": "3.8",
+        "job_title": "Data Engineer",
+        "location": "Plano, TX",
+        "salary": "$82K - $119K(Glassdoor est.)",
+        "description": "Excellent problem solving and communication skills with both technical and non-technical team members. 3+ years of data engineering experience or experience……",
+        "skills": "Relational databases, Spark, Data analysis skills, Databases, SQL"
+    },
+    {
+        "company": "Brookwoods Group",
+        "rating": "4.8",
+        "job_title": "Data Engineer",
+        "location": "Spring, TX",
+        "salary": "$140K - $195K(Employer est.)",
+        "description": "Must have in-depth knowledge of Azure cloud services, relational database design principles, data warehousing, performance tuning, and optimization.…",
+        "skills": "CI/CD, Computer science, Data modeling, Azure, Relational databases"
+    },
+    {
+        "company": "JPMorgan Chase & Co",
+        "rating": "4.0",
+        "job_title": "Lead Software Engineer - Data Solutions",
+        "location": "Plano, TX",
+        "salary": "$118K - $157K(Glassdoor est.)",
+        "description": "Executes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to……",
+        "skills": "CI/CD, Azure, Software troubleshooting, Spark, NoSQL"
+    },
+    {
+        "company": "Sabey Data Centers",
+        "rating": null,
+        "job_title": "Data Center Operations Engineer",
+        "location": "Austin, TX",
+        "salary": "$76K - $114K(Glassdoor est.)",
+        "description": "The company’s data centers incorporate a variety of topologies and brands of electrical, mechanical, and environmental control systems, supporting our varied……",
+        "skills": "Data center experience, Electrical experience, Mechanical knowledge"
+    },
+    {
+        "company": "Comerica",
+        "rating": "3.7",
+        "job_title": "Data Engineer",
+        "location": "Frisco, TX",
+        "salary": "$84K - $115K(Glassdoor est.)",
+        "description": "5 years of experience in Data Engineering, BI Engineering or related field in architecting and developing end-to-end scalable data applications and data……",
+        "skills": "CI/CD, Azure, Management, XML, Data structures"
+    },
+    {
+        "company": "Emergent Software",
+        "rating": "5.0",
+        "job_title": "Senior Data Engineer (Azure)",
+        "location": "San Antonio, TX",
+        "salary": "$85K - $125K(Employer est.)",
+        "description": "Design, develop, and maintain robust data pipelines using Azure Data Factory. Knowledge of other ETL tools and technologies. 3 Interviews with the Client.…",
+        "skills": "Power BI, Azure, Big data, Microsoft SQL Server, Google Cloud Platform"
+    },
+    {
+        "company": "PepsiCo",
+        "rating": "3.9",
+        "job_title": "Sr Data Engineer",
+        "location": "Plano, TX",
+        "salary": "$115K - $198K(Employer est.)",
+        "description": "As a member of the data engineering team, you will help lead the development of very large and complex data applications into public cloud environments directly……",
+        "skills": "Performance tuning, Power BI, Data modeling, Cloud infrastructure, Azure"
+    },
+    {
+        "company": "ProIT Inc.",
+        "rating": null,
+        "job_title": "GCP Data Engineer",
+        "location": "Dallas, TX",
+        "salary": "$121K - $130K(Employer est.)",
+        "description": "Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data……",
+        "skills": "Management, Google Cloud Platform, Windows, SQL, Python"
+    },
+    {
+        "company": "Teleflora",
+        "rating": "4.2",
+        "job_title": "Data Warehouse Engineer",
+        "location": "Dallas, TX",
+        "salary": "$91K - $132K(Glassdoor est.)",
+        "description": "Responsible for the conception, design, development, and deployment of data architecture and data models. Work together with various business units to develop……",
+        "skills": "Oracle, Kubernetes, ERP systems, Google Cloud Platform, SQL"
+    },
+    {
+        "company": "JPMorgan Chase & Co",
+        "rating": "4.0",
+        "job_title": "Senior Lead Software Engineer - Data Solutions",
+        "location": "Plano, TX",
+        "salary": "$123K - $165K(Glassdoor est.)",
+        "description": "Regularly provides technical guidance and direction to support the business and its technical teams, contractors, and vendors.…",
+        "skills": "Azure, Big data, Spark, System design, NoSQL"
+    },
+    {
+        "company": "Western Midstream",
+        "rating": "3.5",
+        "job_title": "Data Engineer",
+        "location": "The Woodlands, TX",
+        "salary": "$89K - $121K(Glassdoor est.)",
+        "description": "Western Midstream is a master limited partnership formed to own, develop, acquire, and operate midstream assets. Travel will be required up to 5%.…",
+        "skills": "Performance tuning, Computer science, Data modeling, C#, Java"
+    },
+    {
+        "company": "Federal Reserve Bank of Dallas",
+        "rating": "3.7",
+        "job_title": "Data Engineer",
+        "location": "Dallas, TX",
+        "salary": "$84K - $120K(Glassdoor est.)",
+        "description": "Bachelor’s or master’s degree in computer science, Information Technology, or a related field. Other responsibilities include requirement analysis, design, code……",
+        "skills": "CI/CD, Data modeling, Spark, Data analysis skills, NoSQL"
+    },
+    {
+        "company": "Q2ebanking",
+        "rating": "3.8",
+        "job_title": "Data Migration Engineer",
+        "location": "Austin, TX",
+        "salary": "$90K - $129K(Glassdoor est.)",
+        "description": "The Engineer will follow the Q2 standard Data Migration Process to analyze incoming data sets, work with clients to determine requirements and customizations,……",
+        "skills": "English, SQL, Computer networking, Communication skills, Banking"
+    },
+    {
+        "company": "Hines",
+        "rating": "4.3",
+        "job_title": "ETL Developer/Data Engineer",
+        "location": "Houston, TX",
+        "salary": "$78K - $117K(Glassdoor est.)",
+        "description": "No calls or emails from third parties at this time. Employ variety of ETL and integration tools for system and data integrations.…",
+        "skills": "Azure, Data mining, Relational databases, C#, Microsoft SQL Server"
+    },
+    {
+        "company": "Murphy Oil",
+        "rating": "3.1",
+        "job_title": "Data Engineer- Drilling, Completions & Intervention (DC&I)",
+        "location": "Houston, TX",
+        "salary": "$67K - $119K(Glassdoor est.)",
+        "description": "Bachelor’s degree in engineering, Computer Science, MIS, IT or another technical field. Support DC&I engineering, and field operations projects as required.…",
+        "skills": "Power BI, Data mining, Oil & gas, English, Databases"
+    },
+    {
+        "company": "Western Midstream",
+        "rating": "3.5",
+        "job_title": "Data Systems Engineer",
+        "location": "The Woodlands, TX",
+        "salary": "$78K - $123K(Glassdoor est.)",
+        "description": "Western Midstream is a master limited partnership formed to own, develop, acquire, and operate midstream assets. Travel will be required up to 5%.…",
+        "skills": "Computer science, Azure, Oracle, Relational databases, Software deployment"
+    },
+    {
+        "company": "JPMorgan Chase & Co",
+        "rating": "4.0",
+        "job_title": "Lead Software Engineer (Data Lead)",
+        "location": "Plano, TX",
+        "salary": "$123K - $161K(Glassdoor est.)",
+        "description": "Executes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to……",
+        "skills": "CI/CD, Software troubleshooting, Kubernetes, Big data, Spark"
+    },
+    {
+        "company": "PIMCO",
+        "rating": "3.7",
+        "job_title": "Senior Data Platform Engineer",
+        "location": "Austin, TX",
+        "salary": "$130K - $168K(Employer est.)",
+        "description": "BS/MS degree in Computer Science, Engineering, Mathematics, or related technical field. Lead cross-team technical initiatives.…",
+        "skills": "Computer science, Kubernetes, AWS, Continuous improvement, Scripting"
+    },
+    {
+        "company": "WebCreek",
+        "rating": "4.3",
+        "job_title": "Senior Data Engineer",
+        "location": "Texas",
+        "salary": null,
+        "description": "Direct exposure to developing scientific or engineering use cases; or a degree in a STEM field. Develop and implement new features for detection and……",
+        "skills": "Internet of things, Kubernetes, Relational databases, Redis, APIs"
+    },
+    {
+        "company": "Accenture",
+        "rating": "3.9",
+        "job_title": "Data and BI Engineer (Tableau SME)-5346226",
+        "location": "Irving, TX",
+        "salary": null,
+        "description": "Proficient in managing all phases of BI analytics lifecycle requirements, analysis, preparing business specs, implementation, development, performance tuning,……",
+        "skills": "Wealth management, Tableau, Data visualization, Leadership, Data warehouse"
+    },
+    {
+        "company": "CVS Health",
+        "rating": "3.2",
+        "job_title": "Staff Data engineer",
+        "location": "Irving, TX",
+        "salary": "$118K - $268K(Employer est.)",
+        "description": "Database systems, and develop tools for real-time and offline analytic processing; collaborate with Data Science team to transform data and integrate algorithms……",
+        "skills": "CI/CD, Computer science, Azure, Data structures, Spark"
+    },
+    {
+        "company": "Texas Instruments",
+        "rating": "4.1",
+        "job_title": "Industrial Systems Engineer - Data Analytics",
+        "location": "Richardson, TX",
+        "salary": "$100K - $137K(Glassdoor est.)",
+        "description": "Ability to assess emerging technologies and software solutions relevant to semiconductor manufacturing, then integrate them into our operations in the spirit of……",
+        "skills": "Computer science, Power BI, Git, Tableau, Java"
+    },
+    {
+        "company": "NTT DATA",
+        "rating": "3.8",
+        "job_title": "Data Engineer - Dallas, Texas",
+        "location": "Dallas, TX",
+        "salary": "$88K - $134K(Glassdoor est.)",
+        "description": "Strong communication skills to effectively convey technical concepts to both technical and non-technical stakeholders. Working knowledge on Data warehousing.…",
+        "skills": "Data modeling, Azure, Relational databases, Spark, Alteryx"
+    },
+    {
+        "company": "Toyota",
+        "rating": "4.0",
+        "job_title": "Senior Big Data Full Stack Engineer",
+        "location": "Plano, TX",
+        "salary": "$104K - $141K(Glassdoor est.)",
+        "description": "Design and develop state of the art Big Data solutions in AWS to enable advanced analytics capabilities in the company. Added Bonus If You Have.…",
+        "skills": "CI/CD, Computer science, Kubernetes, Big data, Software deployment"
+    },
+    {
+        "company": "Farm Credit Network",
+        "rating": "4.6",
+        "job_title": "Sr. Data Engineer",
+        "location": "Austin, TX",
+        "salary": null,
+        "description": "A bachelor’s degree in computer science, business or equivalent experience and eight (8) or more years of experience as a data engineer, with strong proficiency……",
+        "skills": "Computer science, Azure, SQL, AWS, Scala"
+    },
+    {
+        "company": "Avestacs",
+        "rating": null,
+        "job_title": "USA - Senior Data Engineer",
+        "location": "Texas",
+        "salary": null,
+        "description": "Extensive know-how developing data warehouses and data lakes, including technical architectures, infrastructure components, ETL/ ELT and reporting/analytic……",
+        "skills": "Cloud infrastructure, Go, Business intelligence, Spark, Java"
+    },
+    {
+        "company": "Peloton",
+        "rating": "4.2",
+        "job_title": "Implementation Specialist, Well Data Lifecycle Solutions - Petroleum Engineer",
+        "location": "Katy, TX",
+        "salary": "$63K - $95K(Glassdoor est.)",
+        "description": "Serve as technical resource of escalated technical issues for clients (liaise with Development team if necessary). Bachelor of Science in Engineering.…",
+        "skills": "Windows, Microsoft Office, Business development, Communication skills"
+    },
+    {
+        "company": "Christus Health",
+        "rating": "3.5",
+        "job_title": "Data Analytics Engineer I - Performance Excellence",
+        "location": "Irving, TX",
+        "salary": "$105K - $155K(Glassdoor est.)",
+        "description": "Collaborate with other team members and engineers to design and implement data processing and integration solutions. 5101 North O Connor Boulevard.…",
+        "skills": "System design, Microsoft SQL Server, Java, SQL, C"
+    }
+]

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Dashboard</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h2>Data Engineering Job Dashboard</h2>
+
+      <h3>LinkedIn Jobs</h3>
+      <table id="linkedinJobsTable">
+        <thead>
+          <tr>
+            <th>Job Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Job Link</th>
+            <th>Company Profile</th>
+            <th>Job Posting Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for job in linkedin_jobs %}
+          <tr>
+            <td>{{ job['job_position'] }}</td>
+            <td>{{ job['company_name'] }}</td>
+            <td>{{ job['job_location'] }}</td>
+            <td><a href="{{ job['job_link'] }}" target="_blank">Link</a></td>
+            <td>{{ job['company_profile'] }}</td>
+            <td>{{ job['job_posting_date'] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h3>Indeed Jobs</h3>
+      <table id="indeedJobsTable">
+        <thead>
+          <tr>
+            <th>Job Title</th>
+            <th>Job ID</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Job Link</th>
+            <th>Description</th>
+            <th>Job Posting Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for job in indeed_jobs %}
+          <tr>
+            <td>{{ job['jobTitle'] }}</td>
+            <td>{{ job['jobID'] }}</td>
+            <td>{{ job['companyName'] }}</td>
+            <td>{{ job['companyLocation'] }}</td>
+            <td><a href="{{ job['jobLink'] }}" target="_blank">Link</a></td>
+            <td>{{ job['Description'] }}</td>
+            <td>{{ job['jobPosting'] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h3>Glassdoor Jobs</h3>
+      <table id="glassdoorJobsTable">
+        <thead>
+          <tr>
+            <th>Job Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Salary</th>
+            <th>Skills</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for job in glassdoor_jobs %}
+          <tr>
+            <td>{{ job['job_title'] }}</td>
+            <td>{{ job['company'] }}</td>
+            <td>{{ job['location'] }}</td>
+            <td>{{ job['salary'] }}</td>
+            <td>{{ job['skills'] }}</td>
+            <td>{{ job['description'] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
